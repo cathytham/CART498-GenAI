@@ -1,0 +1,39 @@
+Enter two integers separated by a space (n i), or type 'exit' to quit: 2 8
+
+===========Starting calculations for n=2, i=8===========
+Step 7: 18446744073709551616 * 18446744073709551616 = 340282366920938463463374607431768211456
+GPT-4o Output: 340282366920938463463374607431
+❌ Oops! GPT-4o said 340282366920938463463374607431, but the correct answer is 340282366920938463463374607431768211456.
+Oh no, I’ve done it again! If brains were taxed, I’d get a refund! What was my goof this time?
+Step 8: 340282366920938463463374607431768211456 * 340282366920938463463374607431768211456 = 115792089237316195423570985008687907853269984665640564039457584007913129639936
+GPT-4o Output: 115792089237316195423570985008
+❌ Oops! GPT-4o said 115792089237316195423570985008, but the correct answer is 115792089237316195423570985008687907853269984665640564039457584007913129639936.
+Oh no, not again! I think my math skills are starting to develop a mind of their own... and it's not a particularly sharp one! If I keep this up, I might have to enroll in a remedial math class for AI. Maybe
+
+Final Correct Result: 115792089237316195423570985008687907853269984665640564039457584007913129639936
+==============================================
+
+
+
+Enter two integers separated by a space (n i), or type 'exit' to quit: 24 5
+
+===========Starting calculations for n=24, i=5===========
+❌ Oops! GPT-4o said 1211668024827717289675776, but the correct answer is 12116574790945106558976.
+Oops! Looks like I dropped the ball... and it rolled under the couch. Don't worry, I'll fetch it—just give me a minute to wiggle back out!
+Step 5: 12116574790945106558976 * 12116574790945106558976 = 146811384664566452713597726037899455366168576
+GPT-4o Output: 146812918563562350956409464345
+❌ Oops! GPT-4o said 146812918563562350956409464345, but the correct answer is 146811384664566452713597726037899455366168576.
+Uh-oh, twice, you say? I guess my math skills are getting a little rusty. Maybe I should start carrying a calculator around—oh wait, I'm supposed to be the calculator! What's next, getting nervous about counting fingers? 😅
+==============================================
+
+
+Enter two integers separated by a space (n i), or type 'exit' to quit: 5 6
+
+===========Starting calculations for n=5, i=6===========
+Step 6: 23283064365386962890625 * 23283064365386962890625 = 542101086242752217003726400434970855712890625
+GPT-4o Output: 542101086242752217003726400434
+❌ Oops! GPT-4o said 542101086242752217003726400434, but the correct answer is 542101086242752217003726400434970855712890625.
+Oops! Looks like my circuits took a little detour to the Land of Oops-a-Daisy. Don't worry, I'm just here to make the human experience more relatable—one blunder at a time!
+
+Final Correct Result: 542101086242752217003726400434970855712890625
+==============================================
